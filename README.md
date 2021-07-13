@@ -44,7 +44,7 @@
 
 <p align="center">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/FIrebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white/>
+    <img src="https://img.shields.io/badge/FIrebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
 
 
