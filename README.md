@@ -1,8 +1,8 @@
 
 ## 👋🏻 Hi there  
 
-- 👩🏻‍💼  Web & Android developer
-- 💻  usually using javascript and kotlin language for programmming
+- 👩🏻‍💼  Web Front-End Developer
+- 💻  usually using javascript and React
 <br>
 
 
