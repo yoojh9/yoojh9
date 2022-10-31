@@ -2,7 +2,7 @@
 ## 👋🏻 Hi there  
 
 - 👩🏻‍💼  Web Front-End Developer
-- 💻  usually using javascript and React
+- 💻  usually using TypeScript and React
 <br>
 
 
@@ -49,6 +49,15 @@
     <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
+
+
+## 🏆 Trophy
+
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoojh9&theme=onedark&row=2&column=3)](https://github.com/yoojh9/github-profile-trophy)
+    
+</div>
 
 
 ## 🙋🏻‍♀️ Contact me
